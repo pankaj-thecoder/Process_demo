@@ -1,0 +1,16 @@
+{
+  "name": "processdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fork_demo.js",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node fork_demo.js"
+  },
+  "author": "Pankaj",
+  "license": "ISC"
+}
